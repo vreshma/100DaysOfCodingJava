@@ -1,10 +1,10 @@
-/**
+/**A program to generate a random integer between 0 and 100000
  * 
  */
 package sample;
 
 /**
- * @author ADMIN
+ * @author Reshma
  *
  */
 public class RandomNoGenerator {
