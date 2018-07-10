@@ -1,4 +1,5 @@
-package sample;
+/*A useless program to demonstrate java input and output
+*/
 
 import java.util.Scanner;
 import java.io.IOException;
